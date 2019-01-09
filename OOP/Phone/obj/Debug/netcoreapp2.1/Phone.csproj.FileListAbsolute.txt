@@ -1,0 +1,11 @@
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\OOP\Phone\bin\Debug\netcoreapp2.1\Phone.deps.json
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\OOP\Phone\bin\Debug\netcoreapp2.1\Phone.runtimeconfig.json
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\OOP\Phone\bin\Debug\netcoreapp2.1\Phone.runtimeconfig.dev.json
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\OOP\Phone\bin\Debug\netcoreapp2.1\Phone.dll
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\OOP\Phone\bin\Debug\netcoreapp2.1\Phone.pdb
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\OOP\Phone\obj\Debug\netcoreapp2.1\Phone.csprojAssemblyReference.cache
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\OOP\Phone\obj\Debug\netcoreapp2.1\Phone.csproj.CoreCompileInputs.cache
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\OOP\Phone\obj\Debug\netcoreapp2.1\Phone.AssemblyInfoInputs.cache
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\OOP\Phone\obj\Debug\netcoreapp2.1\Phone.AssemblyInfo.cs
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\OOP\Phone\obj\Debug\netcoreapp2.1\Phone.dll
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\OOP\Phone\obj\Debug\netcoreapp2.1\Phone.pdb

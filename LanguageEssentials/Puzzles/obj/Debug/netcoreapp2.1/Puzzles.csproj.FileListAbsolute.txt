@@ -1,0 +1,11 @@
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\LanguageEssentials\Puzzles\bin\Debug\netcoreapp2.1\Puzzles.deps.json
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\LanguageEssentials\Puzzles\bin\Debug\netcoreapp2.1\Puzzles.runtimeconfig.json
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\LanguageEssentials\Puzzles\bin\Debug\netcoreapp2.1\Puzzles.runtimeconfig.dev.json
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\LanguageEssentials\Puzzles\bin\Debug\netcoreapp2.1\Puzzles.dll
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\LanguageEssentials\Puzzles\bin\Debug\netcoreapp2.1\Puzzles.pdb
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\LanguageEssentials\Puzzles\obj\Debug\netcoreapp2.1\Puzzles.csprojAssemblyReference.cache
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\LanguageEssentials\Puzzles\obj\Debug\netcoreapp2.1\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\LanguageEssentials\Puzzles\obj\Debug\netcoreapp2.1\Puzzles.AssemblyInfoInputs.cache
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\LanguageEssentials\Puzzles\obj\Debug\netcoreapp2.1\Puzzles.AssemblyInfo.cs
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\LanguageEssentials\Puzzles\obj\Debug\netcoreapp2.1\Puzzles.dll
+C:\Users\Faizan\Desktop\CSharp\LanguageFundamentals\LanguageEssentials\Puzzles\obj\Debug\netcoreapp2.1\Puzzles.pdb
